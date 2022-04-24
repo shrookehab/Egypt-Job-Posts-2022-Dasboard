@@ -23,7 +23,9 @@ Nowadays everyone is searching for a jobs over the internet, so this dashboard i
 
 ## Acknowledgements
 
-* [Dash](https://plotly.com/dash/)
+* [Plotly](https://plotly.com/)
+* [Dash-Plotly](https://dash.plotly.com/)
+* [Dash-Bootstrap](https://dash-bootstrap-components.opensource.faculty.ai/docs/)
 
 ## Author 
 
